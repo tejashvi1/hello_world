@@ -1,3 +1,3 @@
-hello(){
- alert( 'Hello, world!' );
+function hello(){
+  document.getElementById("this").innerHTML = "Hello World!";
 }
